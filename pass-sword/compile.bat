@@ -1,0 +1,1 @@
+gcc src/main.c src/utilities/bruteforce.c src/utilities/sifreolustur.c src/utilities/mainlib.c src/utilities/sifrekontrol.c src/utilities/sifreleme.c -I include -o build/pass-sword

@@ -1,0 +1,13 @@
+
+Şifreleme (Encryption)
+Basit bir Sezar Şifrelemesi (Caesar Cipher) veya XOR Şifrelemesi ekleyebilirsin. Kullanıcı bir kelime girer, program bunu şifrelenmiş (okunmaz) hale getirir.
+
+Özellik: "Metni Şifrele" / "Şifreli Metni Çöz"
+
+---------------------------
+
+Brute force u 0 dan sayıya kadar ve rastgele deneme olarak ikiye ayır.
+Brute forca da şifre üretirken dizi kullanmak yerine direk kontrol edebilir.
+Basamak sayısını kullanıcı girsin.
+
+----------------------------
